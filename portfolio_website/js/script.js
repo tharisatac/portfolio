@@ -6,7 +6,7 @@ $(document).ready(function() {
     });
     
     var typed = new Typed(".typed", {
-        strings: ["Software Engineer.", "Cambridge Graduate.", "Football Fan."],
+        strings: ["Software Engineer, Gratefully.", "Cambridge Graduate, Unbelievably.", "Manchester United Fan, Unfortunately."],
         typeSpeed: 70,
         loop: true,
         startDelay: 2000,
