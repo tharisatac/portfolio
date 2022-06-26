@@ -151,6 +151,7 @@
     background-color: var(--main-color);
     padding: 20px 10px 20px 30px;
     z-index: var(--z-fixed);
+    width: 100%;
 }
 
 #navigation li{
@@ -384,3 +385,20 @@
     color: #FFF;
   }
   
+/* ===================== LOADER ================== */
+
+.loader {
+    width: 100%;
+    height: 100%;
+    background-color: #FFF;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: var(--z-modal); 
+}
+
+.loader .inner {
+    width: 100%;
+    height: 100%;
+    background: url(../images/icons/Fancy\ pants.gif) center center no-repeat;
+}
