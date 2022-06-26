@@ -377,7 +377,7 @@ html,body
   }
   
   .footer_social:hover{
-    color: var(--first-color);
+    color: var(--first-color-alt);
   }
   
   .footer_copy{
