@@ -172,6 +172,11 @@
     top: 0;
 }
 
+.navbar-toggler-icon {
+    background: url(../images/icons/menu.png);
+    background-size: 100%;
+}
+
 /* ===================== QUALIFIFICATION ================== */
 
 .qualificationSection {
