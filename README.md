@@ -1,4 +1,5 @@
-# portfolio_website
-My first portfolio website!
+# My Portfolio!
 
-Hi
+I'm mainly a backend engineer, so I've created this on the side to explore some front-end design!
+
+Check out my website: https://tharisatac.github.io/portfolio/
